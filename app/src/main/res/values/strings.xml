@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsCorp</string>
+    <string name="offline">You are offline!!! Please check your internet connection!</string>
+    <string name="error">Something went wrong, Please try again later</string>
+</resources>
